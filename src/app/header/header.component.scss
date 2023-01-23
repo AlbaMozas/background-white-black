@@ -1,0 +1,32 @@
+
+
+.allMenu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.menu{
+    list-style: none;
+    font-size: 25px;
+    margin: 50px 10px 10px 10px;
+}
+
+.onnOff{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+button{
+    margin-left: 20px;
+    font-size: 30px;
+    width: 60px;
+}
+
+.imgsClis{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
